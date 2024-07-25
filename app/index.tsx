@@ -12,6 +12,8 @@ export default function Index() {
     >
       <Text>Edit app/index.tsx to edit this screen.</Text>
       <Text>and save to reload the app!</Text>
+      <Text>Edit app/index.tsx to edit this screen.</Text>
+      <Text>And save to reload.</Text>
       <HelloWave />
     </View>
   );
